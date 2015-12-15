@@ -2,32 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-fb87df567ef7a8c8ffbfeee84a463cced980be64.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2c1589f71ba22da42f0613a749ffe0185c0fc1b8.jar" />
-    </item>
-    <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-a0e08f5e0bc02d1a64f0da1484339ecf1427bf7e.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-26bf005727aeb8b891841e0d5a247e0177a403ee.jar" />
     </item>
     <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
@@ -37,11 +16,46 @@
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-2030fb879600e8f3edfe3a4894c747b03adfce65.jar" />
     </item>
     <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2c1589f71ba22da42f0613a749ffe0185c0fc1b8.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-d05bed4517e8b3620af7eed1a6fe03ef6a098f24.jar" />
+    </item>
+    <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-059d5f7e58a5a5e56f0f393af164c882b07a1f31.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-310bacab0c9404d0781dccebcd79e2ea97eaefaf.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-81f4da4880d5b71721ed6ef0a77e34aea9ac85a1.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-6c704b95f51b0d771e6341f9722d4c46ea090092.jar" />
     </item>
     <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
@@ -58,81 +72,11 @@
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-8e12f7cea2ac52c458270853bef8a5b2564453ac.jar" />
     </item>
     <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-d590708a6e2c7284d8128e55ddbc6d7f0c7fb732.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-b95097b9ce80a5b946fbc8886eb629b19858d72c.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-e763bc039841f59d15bf48947b2575089b3fa89e.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-f2f7d0aabfd352968de1c45b927b7592becbfb28.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-80f3aa0b03ee70a1a851fe24a5a5be925fe12466.jar" />
-    </item>
-    <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-fad01b0ea942c4b4c0cde3b8f4f0f7240d9de7e4.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-6c704b95f51b0d771e6341f9722d4c46ea090092.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-310bacab0c9404d0781dccebcd79e2ea97eaefaf.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-6a49a6735b7634144238c0cde034ac21aff2802d.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-81f4da4880d5b71721ed6ef0a77e34aea9ac85a1.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-ee3451a961cdbaa9316b018635118886e4e46c34.jar" />
     </item>
     <item
         jar="C:\Users\KeerthanaS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
@@ -142,11 +86,60 @@
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-7368cdc06f10df9c929aa8b55f90c35970d07bf6.jar" />
     </item>
     <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-b95097b9ce80a5b946fbc8886eb629b19858d72c.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-80f3aa0b03ee70a1a851fe24a5a5be925fe12466.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-26bf005727aeb8b891841e0d5a247e0177a403ee.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-f2f7d0aabfd352968de1c45b927b7592becbfb28.jar" />
+    </item>
+    <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-48fe8d3bd4977ad8f04002cbc9531cdbd556a1a3.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-6a49a6735b7634144238c0cde034ac21aff2802d.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-e763bc039841f59d15bf48947b2575089b3fa89e.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-d590708a6e2c7284d8128e55ddbc6d7f0c7fb732.jar" />
     </item>
     <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
@@ -156,18 +149,32 @@
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-4fd11da67e6df6e125edd55b6c0ab48e0a92bd0a.jar" />
     </item>
     <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-d05bed4517e8b3620af7eed1a6fe03ef6a098f24.jar" />
-    </item>
-    <item
         jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-d1026472f2d87c77cf01824d0485e4e1cde5554c.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\jokeslibrary\build\libs\jokeslibrary.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac0a54cf0d27996420d74bbd02bb078a1ef64f5c">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\jokeslibrary-135093de2452ca5199d5b024b81dee8d98f6a757.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-fb87df567ef7a8c8ffbfeee84a463cced980be64.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Build It Bigger\FinalProject\app\build\intermediates\pre-dexed\debug\classes-ee3451a961cdbaa9316b018635118886e4e46c34.jar" />
     </item>
 
 </items>
